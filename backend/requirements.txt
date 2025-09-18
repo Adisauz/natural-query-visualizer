@@ -1,0 +1,8 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+langchain==0.2.16
+langchain-openai==0.1.25
+langchain-community==0.2.16
+pymysql==1.1.0
+cryptography==42.0.5
+python-dotenv==1.0.0
