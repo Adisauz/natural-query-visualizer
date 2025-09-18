@@ -11,6 +11,9 @@ A full-stack application that allows you to query your Chinook music database us
 - **Modern UI**: Responsive design with Tailwind CSS
 - **Error Handling**: Graceful error management and user feedback
 
+## Here is a screenshort of the full working
+<img width="1920" height="3502" alt="dashboard" src="https://github.com/user-attachments/assets/ba6afade-8751-49f9-8077-47bb34602f3e" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
