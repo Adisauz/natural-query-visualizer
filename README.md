@@ -25,7 +25,7 @@ A full-stack application that allows you to query your Chinook music database us
 1. **Clone and Navigate**
    ```bash
    # Navigate to your project directory
-   cd "langchain+zigment"
+   cd "natural-query-visualizer"
    ```
 
 2. **Backend Setup**
